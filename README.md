@@ -5,9 +5,13 @@ We will apply a convolutional neural network CNN to the MNIST FASHION dataset.
 ## Project Structure
 
 -The Data Directory is the place where we store the .csv files for training and testing. 
+
 -The Models Directory is where the model is saved for each checkpoint
+
 -The Notebooks is the directory where we store our notebook, containing the entire logic of project.
+
 -The requirements.txt file contains the libraries used for the project. kindly make sure to download these before running the project.
+
 
 `Here, we could not upload the dataset because of the size, though mnist dataset is widely available on internet. Kindly download and save in this DATA directory, make sure to have 2 separate files for train and test named fashion-mnist_train.csv and fashion-mnist_test.csv`
 
