@@ -6,6 +6,7 @@ We will apply a convolutional neural network CNN to the MNIST FASHION dataset.
 MNISTFASHION/
 
 ├── DATA/ # Raw CSV files (train/test) 
+
 ├── MODELS/ # Saved trained models (.h5)
 
 ├── NOTEBOOKS/ # All Jupyter notebooks
