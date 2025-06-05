@@ -3,23 +3,7 @@ We will apply a convolutional neural network CNN to the MNIST FASHION dataset.
 
 
 ## Project Structure
-MNISTFASHION/
 
-├── DATA/ # Raw CSV files (train/test) 
-
-├── MODELS/ # Saved trained models (.h5)
-
-├── NOTEBOOKS/ # All Jupyter notebooks
-
-│ ├── EDA.ipynb
-
-│ ├── preprocessing.ipynb
-
-│ └── modelFitting.ipynb
-
-├── requirements.txt
-
-└── README.md
 The Data Directory is the place where we store the .csv files for training and testing. 
 The Models Directory is where the model is saved for each checkpoint
 The Notebooks is the directory where we store our notebook, containing the entire logic of project.
