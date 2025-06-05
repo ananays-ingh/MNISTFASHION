@@ -5,12 +5,19 @@ We will apply a convolutional neural network CNN to the MNIST FASHION dataset.
 ## Project Structure
 MNISTFASHION/
 ├── DATA/ # Raw CSV files (train/test) 
+
 ├── MODELS/ # Saved trained models (.h5)
+
 ├── NOTEBOOKS/ # All Jupyter notebooks
+
 │ ├── EDA.ipynb
+
 │ ├── preprocessing.ipynb
+
 │ └── modelFitting.ipynb
+
 ├── requirements.txt
+
 └── README.md
 
 Here, we could not upload the dataset because of the size, though mnist dataset is widely available on internet. Kindly download and save in this DATA directory, make sure to have 2 separate files for train and test named fashion-mnist_train.csv and fashion-mnist_test.csv
