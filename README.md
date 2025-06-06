@@ -54,9 +54,9 @@ We have included techniques like Dropout, BatchNormalization, earlyStopping, Red
 
 
 ## ✅ Results
-- **Training Accuracy**: ~95%
-- **Validation Accuracy**: ~93–94%
-- **Test Accuracy**: ~93%
+- **Training Accuracy**: 97.08%
+- **Validation Accuracy**: 94.10%
+- **Test Accuracy**: 94.62%
 - **Model Generalization**: Excellent — no significant overfitting
 
 
